@@ -1,0 +1,5 @@
+@import "./global/global.css";
+@import "./components/general.css";
+@import "./components/financial.css";
+@import "./components/usd_brl.css";
+@import "./components/weather.css";

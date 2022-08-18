@@ -1,0 +1,25 @@
+#app{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;      
+    background-color: rgba(0,0,0,.8);      
+}
+
+.cards{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 1440px;
+    margin:0 auto;
+    gap:1px;
+}
+.card{
+    height: 100%;
+    font-weight: bold;
+    align-items: center;
+    font-size: 1.25rem;
+    font-family: sans-serif;
+}

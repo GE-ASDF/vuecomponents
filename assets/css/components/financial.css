@@ -1,0 +1,7 @@
+.financial{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    background:linear-gradient(to right, rgba(234, 177, 92, 0.865) 30%, rgba(199, 242, 245, 0.865));
+    display: flex;
+    padding:10px 20px;
+}
